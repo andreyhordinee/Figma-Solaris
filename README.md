@@ -1,12 +1,12 @@
 
 
-# ☀️ Solaris Panel Store
+# 🔆 Solaris Panel Store
 
 **Solaris Panel Store** é um projeto de e-commerce moderno e minimalista focado na venda de painéis solares. O design e a interface são cuidadosamente planejados para oferecer uma navegação simples, eficiente e agradável, com foco na sustentabilidade e inovação.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
-## 🎨 Design e Estilo
+## ✶ Design e Estilo
 
 O site adota um design moderno, minimalista e intuitivo. As escolhas de cores e o layout são voltados para proporcionar uma experiência fluida e centrada no usuário. 
 
@@ -16,11 +16,11 @@ O site adota um design moderno, minimalista e intuitivo. As escolhas de cores e 
 
 O foco principal é criar uma interface atraente, fácil de navegar e com ênfase nos principais produtos e informações.
 
-## 🌟 Objetivo do Design
+## ✧ Objetivo do Design
 
 O design visa captar a atenção do cliente por meio da simplicidade e praticidade, sem sobrecarregar com informações. Cada elemento foi projetado para melhorar a jornada do usuário, mantendo uma experiência visual limpa e organizada.
 
-## 🖥️ Páginas do Site
+## ✶ Páginas do Site
 
 ### 1. **Página Inicial**
    - **Carrossel de Novidades:** Apresenta os lançamentos mais recentes.
@@ -57,9 +57,14 @@ O design visa captar a atenção do cliente por meio da simplicidade e praticida
 Esse sistema de sinalização visual otimiza o entendimento e agiliza o trabalho de desenvolvimento, permitindo que a funcionalidade de cada botão e seu destino sejam facilmente identificado:
 
 - **Setas Cinzas:** Conectam os botões com as descrições de suas respectivas funções, explicando o que cada botão faz.
+
+  ![alt text](image-2.png)
+
 - **Setas Azul Claro:** São usadas para indicar de maneira direta o destino da ação daquele botão, facilitando a navegação e a compreensão do fluxo.
 
-## 🚀 Objetivo Geral
+  ![alt text](image-3.png)
+
+## ✶ Objetivo Geral
 
 Criar uma interface visualmente atraente, intuitiva e funcional que facilite a compra de painéis solares de forma eficiente. O site foi projetado para oferecer uma comunicação clara e ferramentas interativas, proporcionando uma experiência otimizada para o cliente.
 
